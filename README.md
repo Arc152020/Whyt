@@ -1,1 +1,1 @@
-# Whyt
+An alternative to nairaland website
